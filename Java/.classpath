@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="ArrayRotator"/>
+	<classpathentry kind="src" path="Charlie Prime Factors"/>
+	<classpathentry kind="src" path="CreditCardValidation"/>
+	<classpathentry kind="src" path="DispersionCalculator/DispersionCalculator/src"/>
+	<classpathentry kind="src" path="IPRegexValidation"/>
+	<classpathentry kind="src" path="IsInFibonacci"/>
+	<classpathentry kind="src" path="Measures of Central Tendency"/>
+	<classpathentry kind="src" path="Number Frequency"/>
+	<classpathentry kind="src" path="Number sorting with a twist #20"/>
+	<classpathentry kind="src" path="Number System Conversion"/>
+	<classpathentry kind="src" path="prefixsumsuffixsum"/>
+	<classpathentry kind="src" path="Print Matrix In Spiral Order"/>
+	<classpathentry kind="src" path="Pth term"/>
+	<classpathentry kind="src" path="Remove Extra Space from String"/>
+	<classpathentry kind="src" path="RotateSqMatrix"/>
+	<classpathentry kind="src" path="SingleElement"/>
+	<classpathentry kind="src" path="Sum of a sequence"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
